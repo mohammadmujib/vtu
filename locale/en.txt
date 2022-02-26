@@ -1,0 +1,100 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Vishveash
+
+## Media
+
+### Title
+map_272544C7_308A_DB5F_41BC_542FDB6021E6.label = 3- statitue
+panorama_24C20768_3569_8772_41AB_B2D88BE5E3D8.label = Senate Hall
+panorama_24C208E0_3569_8972_419B_5B5C7831E318.label = Ground Floor VC lobby
+panorama_24C20DA7_3569_8BFE_41C9_5EF263FB5CB7.label = Mechanical Lab
+panorama_24C23EAF_3568_89CD_41BA_18C0B81A9977.label = Block 1 First Floor COE lab
+panorama_24C24C38_3568_88D2_41BD_34341628F527.label = VC office room
+panorama_24C26502_3568_98B6_41C3_DA93A0561CAF.label = Classroom Block 1 Ground Floor
+panorama_24C289AA_3568_8BF7_41BB_225A8108C38D.label = south end block 2
+panorama_24C28AD6_3569_895F_41AC_C22A635979BB.label = Main Ground
+panorama_24C29D7D_3577_8B4D_41BF_85C1F24BCBDA.label = Block 1 Apple
+panorama_24C2BFD6_3569_875F_4199_F3BAA81F4FFD.label = Meditation Square
+panorama_24C2C34A_3569_98B6_41BB_0E6383E2F43E.label = Microsoft Lab Block 1 first floor
+panorama_24C2CB84_3577_8FB3_41B2_67371C3A0820.label = Block 1 & 2 lobby
+panorama_24C2D594_3569_BBD3_41C8_1A9306B047BE.label = Pool Room
+panorama_24C2E499_3577_99D5_41AB_83706A0CAA2F.label = Auditorium Lobby
+panorama_24C2E603_3577_F8B6_41C8_108DFFCB941B.label = Auditorium Square
+panorama_24C30397_3568_9FDE_4192_746AFD533027.label = Girl's Gym
+panorama_24C3301C_3577_98D2_41C6_9408BE80BDAC.label = 11
+panorama_24C34CE8_3568_8973_41CA_69451C4EE598.label = EC meeting Hall
+panorama_24C358C3_3577_89B6_41B2_99AE37EF4462.label = Badmintion Room
+panorama_24C3B087_3568_B9BD_41A2_AE3EFAC3EFF3.label = Boy's Gym
+panorama_24C3E84C_3568_88B2_41C6_7BCD6B65732B.label = CNC lab
+panorama_273F8CD3_3569_8956_41B2_859E895D42D0.label = 1st Floor VC lobby
+panorama_39A096A5_307A_47D3_41C6_AABC1CC49001.label = 2- gate
+panorama_39A42324_3079_BED0_41C4_C71074910458.label = Mediattion Centre
+panorama_39A4397D_3079_CD30_41AA_E85766EF7053.label = microsoft lab
+panorama_39A4521D_307A_FEF3_41C0_FCD85149E9AB.label = sports complex ground floor
+panorama_39A45A62_3079_CF51_41B8_71C32813886B.label = registrar office ground flor lobby
+panorama_39A45C70_307A_CB31_41AB_F82868FE1869.label = Sports complex 1st floor
+panorama_39A46721_307A_C6D3_419C_F1967C8F4062.label = sports complex front
+panorama_39A46F45_3079_C553_41B7_D54BF5668AF7.label = pool table
+panorama_39A47125_307A_BAD0_41A7_7866CF81189C.label = Sport complex badminton
+panorama_39A4A218_307A_7EF0_41C7_314042F7DCFE.label = south end block 1
+panorama_39A4D255_307A_5F73_41B0_FEC4547464A9.label = south end block 2
+panorama_39A4D385_307A_5DD0_41A4_0ED823CF878E.label = Robotic Lab
+panorama_39A4E5E5_307A_4550_41C2_29419DE8701C.label = Registrar office
+panorama_39A50B1C_307A_4EF0_4199_EFC8F076CC4C.label = V C Conference 2
+panorama_39A5131A_307A_5EF1_41B3_CD94C4ED3A3B.label = vc ground floor confrence 1
+panorama_39A51EC5_307A_4753_4198_2491C13918D1.label = Vice Chanceller ground floor lobby
+panorama_39A5478D_307A_45D0_419C_1ECD88B4267A.label = vallyball Ground
+panorama_39A55E82_307A_47D0_41C4_3CFE9DB214C5.label = Tennis Ground
+panorama_39A587BD_307A_C530_41BC_7E18425C8A6A.label = Sun Lab
+panorama_39A59C8D_307A_CBD0_4178_14F2C66CC755.label = Sports Department road
+panorama_39A5B295_307A_BFF3_41C1_4831ECF28E16.label = table tennis
+panorama_39ABD469_3079_FB53_41B6_B0773E943745.label = open air theatre
+panorama_39ABFEE7_3079_C75F_41C1_75D527C995CD.label = meeting room registerar
+panorama_39AC05A1_307E_45D3_41C3_C47D8D99CC83.label = 6.1.3 ecu hall
+panorama_39AC07D4_307E_4570_41B3_70B3E9C1AE3C.label = Computing Lab
+panorama_39AC0A3D_307E_CF30_41B1_72462847A311.label = guesthouse lobby
+panorama_39AC0AFF_307E_CF30_41C5_7DF2BDAA8D0B.label = Black 1 & 2 Lobby
+panorama_39AC0DA3_307E_45D7_41A1_3EF26C56527F.label = 6.1.1.voice chaceller conference
+panorama_39AC104F_307E_5B6F_41B5_41C317DB475F.label = fountain lobby
+panorama_39AC10E7_307E_BB5F_41A9_19C6FE9AECC8.label = Block 1 lobby
+panorama_39AC1218_307E_FEF1_41C1_50A707522134.label = IMG_20220215_150034_00_merged-min
+panorama_39AC13B3_3079_DD30_41B8_A93EA6BC9CF6.label = 6.1 squre
+panorama_39AC1405_307E_5AD3_41C0_2EDA0A09B1B2.label = Lobby 1
+panorama_39AC1521_307E_DAD3_41BC_7F85B0FA695D.label = auditorium
+panorama_39AC16B7_307E_4730_4168_DEAEAFA2D9DE.label = block 3
+panorama_39AC17D8_307E_4571_41B5_CFE9B779A2AA.label = Mechanical Lab
+panorama_39AC19EE_307F_CD2E_41AB_C1262F0487D3.label = Civil Lab
+panorama_39AC1B95_307E_4DF3_41A7_4B2CF101B4FA.label = main Ground
+panorama_39AC2065_307E_5B53_41BA_669E64E23482.label = boys gym
+panorama_39AC21E1_3079_BD50_41B9_90EFC1C377CB.label = 3- statitue
+panorama_39AC23D1_307E_7D73_41C0_409B31A1A71B.label = Evaluation Centre
+panorama_39AC2CA9_307E_4BD3_41A9_4D247B7A8B99.label = girls gym
+panorama_39AC31E7_307E_5D5F_41B9_511A1EA70A5F.label = 6.1.3 sanete hall
+panorama_39AC32AC_307F_DFD0_41BE_05D6BDBDA1AF.label = cnc lab
+panorama_39AC35CE_307F_C550_41B6_DA2885ED35F8.label = cnc block 1 block3
+panorama_39AC3D2B_307E_4AD0_41C1_DAB3183339BB.label = centre for p.g studies
+panorama_39AC3E0D_307E_C6D0_41B0_DFC749DD5E13.label = IMG_20220215_153633_00_merged-min
+panorama_39AC402A_307E_7AD0_41C5_EE713B7B063C.label = Lobby 2
+panorama_39AC5A71_3079_CF33_41BC_B7886DEF2ABE.label = 5 guesthouse right
+panorama_39AC5BAA_307E_CDD0_415F_DB40465B41C9.label = library entrance
+panorama_39AC67CE_307E_4550_41BB_89B44DF557C8.label = Library
+panorama_39AC6B71_307E_4D30_41C2_74876A1D7D55.label = Computation Lab
+panorama_39AC6BD5_307E_4D70_41B0_CA8BF0B82C4F.label = Block 2 Lobby
+panorama_39AC6EDB_307F_C777_41BE_C0111C110978.label = COE Lab
+panorama_39AC7336_307E_7D31_41C3_4B767F1C6611.label = Bock 1 lobby Aplle Lab
+panorama_39AC7AB4_307E_4F31_4190_5636EADC9935.label = 6.1.1.voice chanceller
+panorama_39ACC5EB_307E_C557_41C5_A71FEEBF4ACF.label = Block 1 First Floor Lobby
+panorama_39ACCFE3_307E_C557_41C1_120C6D114399.label = Auditoruim Road
+panorama_39ACE997_307E_CDF0_41B5_F2F27CFE432D.label = auditorium block
+panorama_39ACF5A2_307E_C5D1_41A9_778C4D3A1D2D.label = IMG_20220215_145413_00_merged-min
+panorama_39ACFECA_307E_4751_418C_0BD332E0C2C9.label = 6.1.3rd floor lobby
+panorama_39ADF8AE_307F_CBD1_41AF_097F712CE5A2.label = Class Room
+panorama_39AFC76B_3079_C557_41C5_979708674493.label = 6 adminsitrative
+panorama_39AFFD7A_3079_C530_419F_9FFEE307E6EF.label = 4 square junctiion
+panorama_3A971625_307A_46D3_41A3_F8322E7518DC.label = 1- main entrance
