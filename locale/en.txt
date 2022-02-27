@@ -5,7 +5,7 @@
 ### Description
 
 ### Title
-tour.name = Vishveash
+tour.name = VTU
 
 ## Media
 
@@ -14,11 +14,6 @@ map_272544C7_308A_DB5F_41BC_542FDB6021E6.label = 3- statitue
 panorama_24C208E0_3569_8972_419B_5B5C7831E318.label = Ground Floor VC lobby
 panorama_24C29D7D_3577_8B4D_41BF_85C1F24BCBDA.label = Block 1 Apple
 panorama_24C2CB84_3577_8FB3_41B2_67371C3A0820.label = Block 1 & 2 lobby
-panorama_24C2E499_3577_99D5_41AB_83706A0CAA2F.label = Auditorium Lobby
-panorama_24C30397_3568_9FDE_4192_746AFD533027.label = Girl's Gym
-panorama_24C358C3_3577_89B6_41B2_99AE37EF4462.label = Badmintion Room
-panorama_24C3B087_3568_B9BD_41A2_AE3EFAC3EFF3.label = Boy's Gym
-panorama_24C3E84C_3568_88B2_41C6_7BCD6B65732B.label = CNC lab
 panorama_273F8CD3_3569_8956_41B2_859E895D42D0.label = 1st Floor VC lobby
 panorama_287A3B8D_34D9_8FCD_41B0_A4C8DD94D1ED.label = Audtorium
 panorama_39A096A5_307A_47D3_41C6_AABC1CC49001.label = 2- gate
@@ -36,7 +31,6 @@ panorama_39A4D385_307A_5DD0_41A4_0ED823CF878E.label = Robotic Lab
 panorama_39A4E5E5_307A_4550_41C2_29419DE8701C.label = Registrar office
 panorama_39A50B1C_307A_4EF0_4199_EFC8F076CC4C.label = V C Conference 2
 panorama_39A5131A_307A_5EF1_41B3_CD94C4ED3A3B.label = vc ground floor confrence 1
-panorama_39A51EC5_307A_4753_4198_2491C13918D1.label = Vice Chanceller ground floor lobby
 panorama_39A5478D_307A_45D0_419C_1ECD88B4267A.label = vallyball Ground
 panorama_39A55E82_307A_47D0_41C4_3CFE9DB214C5.label = Tennis Ground
 panorama_39A587BD_307A_C530_41BC_7E18425C8A6A.label = Sun Lab
@@ -81,3 +75,10 @@ panorama_39ADF8AE_307F_CBD1_41AF_097F712CE5A2.label = Class Room
 panorama_39AFC76B_3079_C557_41C5_979708674493.label = 6 adminsitrative
 panorama_39AFFD7A_3079_C530_419F_9FFEE307E6EF.label = 4 square junctiion
 panorama_3A971625_307A_46D3_41A3_F8322E7518DC.label = 1- main entrance
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_236C2403_35A8_B8B6_41C2_7B37BB39144E.toolTip = Voice chanceller conference
+HotspotPanoramaOverlayArea_285D1507_34E8_98BE_41C9_C0E139F8A1AE.toolTip = GuestHouse Lobby
+HotspotPanoramaOverlayArea_2FBE0043_35D8_98B5_41A7_0858BCE263C8.toolTip = Second floor
